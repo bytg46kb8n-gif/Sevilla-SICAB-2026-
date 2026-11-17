@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="plano-svg" xmlns="http://www.w3.org/2000/svg" width="1440" height="1060" viewBox="-20 -20 1440 1060">
+<g id="Fondo"><rect x="-20" y="-20" width="1440" height="1060" fill="#1F1A14"/></g>
+<g id="Cabecera"><text x="20" y="40" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-size="20" font-weight="700" letter-spacing="2.4" fill="#F5C000">SICAB 2026</text><text x="700" y="42" text-anchor="middle" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-size="36" font-weight="800" letter-spacing="4" fill="#FFFFFF">PABELLÓN 3</text><rect x="20" y="60" width="1360" height="3" fill="#EE5007"/></g>
+<g id="Recinto"><rect x="0" y="88" width="1400" height="922" rx="10" fill="none" stroke="#5A4E42" stroke-width="2"/><rect x="8" y="96" width="1384" height="906" rx="14" fill="#E9E5DD" stroke="#3A2F26" stroke-width="2"/></g>
+<g id="Zonas">
+<g id="pistacalentamiento"><rect x="70.2" y="248.8" width="267.8" height="525.1" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="pista3"><rect x="357" y="352.8" width="734.4" height="317" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="tribuna C"><rect x="357" y="195" width="734.4" height="130.7" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="tribuna A"><rect x="357" y="697" width="734.4" height="130.7" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="tribunaB1" data-label="hide"><rect x="1102.9" y="325.6" width="192.5" height="97.2" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="palcovip"><rect x="1102.9" y="422.8" width="123.2" height="177" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="tribuna B"><rect x="1226.2" y="422.8" width="69.2" height="177" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="tribunaB3" data-label="hide"><rect x="1102.9" y="599.8" width="192.5" height="97.2" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+<g id="pmr"><rect x="357" y="279" width="77.7" height="46.6" fill="#FFFFFF" stroke="#D8D1C4" stroke-width="1.2"/></g>
+</g>
+<g id="Entradas">
+<g id="Acceso A"><rect x="1345.2" y="242.8" width="34" height="34" rx="7" fill="#B3261E"/><text x="1358.9" y="259.8" text-anchor="middle" dominant-baseline="central" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">A</text></g>
+<g id="Acceso B"><rect x="1345.2" y="494.3" width="34" height="34" rx="7" fill="#B3261E"/><text x="1358.9" y="511.3" text-anchor="middle" dominant-baseline="central" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">B</text></g>
+<g id="Acceso C"><rect x="1345.2" y="746.1" width="34" height="34" rx="7" fill="#B3261E"/><text x="1358.9" y="763.1" text-anchor="middle" dominant-baseline="central" font-family="'Barlow Condensed', 'Arial Narrow', sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">C</text></g>
+</g>
+</svg>
